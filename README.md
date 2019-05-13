@@ -37,7 +37,9 @@
   
   
   # 4.Exploit creativity to add some image processing to enhance effect 
-  >> <img width="190" src="GGG1.jpg"/>  <img width="190" src="GGG1_V2.jpg"/>
+  >> <img width="380" src="GGG1.jpg"/>  <img width="380" src="GGG1_V2.jpg"/>
+  >
+  >> <img src="GGG2.gif"/>
 
 
 
