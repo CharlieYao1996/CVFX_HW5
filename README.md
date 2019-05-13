@@ -3,12 +3,12 @@
   >> Stop Motion
   >
   >> <img width="400" src="G1.jpg"/>  <img width="400" src="G2.jpg"/>
-  >> <img src="G3.jpg"/>  <img src="G4.jpg"/>
-  >> <img src="G5.jpg"/>  <img src="G6.jpg"/>
-  >> <img src="G7.jpg"/>  <img src="G8.jpg"/>
+  >> <img width="400" src="G3.jpg"/>  <img width="400" src="G4.jpg"/>
+  >> <img width="400" src="G5.jpg"/>  <img width="400" src="G6.jpg"/>
+  >> <img width="400" src="G7.jpg"/>  <img width="400" src="G8.jpg"/>
   >> Motion parallax
-  >> <img src="GGG1.jpg"/>  <img src="GGG2.jpg"/>
-  >> <img src="GGG3.jpg"/>  <img src="GGG4.jpg"/>
+  >> <img width="400" src="GGG1.jpg"/>  <img width="400" src="GGG2.jpg"/>
+  >> <img width="400" src="GGG3.jpg"/>  <img width="400" src="GGG4.jpg"/>
   # 2.image alignment results between different images
   >> <img src="tryout.jpg"/>  <img src="tryout1.jpg"/>
   >> <img src="tryout2.jpg"/>  <img src="tryout3.jpg"/>
