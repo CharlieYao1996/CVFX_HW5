@@ -1,12 +1,12 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
-  >> <img src="G1.jpg"/>  <img width="300" height="300" src="G2.jpg"/>
-  >> <img width="300" height="300" src="G3.jpg"/>  <img width="300" height="300" src="G4.jpg"/>
-  >> <img width="300" height="300" src="G5.jpg"/>  <img width="300" height="300" src="G6.jpg"/>
-  >> <img width="300" height="300" src="G7.jpg"/>  <img width="300" height="300" src="G8.jpg"/>
+  >> <img src="G1.jpg"/>  <img src="G2.jpg"/>
+  >> <img src="G3.jpg"/>  <img src="G4.jpg"/>
+  >> <img src="G5.jpg"/>  <img src="G6.jpg"/>
+  >> <img src="G7.jpg"/>  <img src="G8.jpg"/>
   
-  >> <img width="300" height="300" src="GGG1.jpg"/>  <img width="300" height="300" src="GGG2.jpg"/>
-  >> <img width="300" height="300" src="GGG3.jpg"/>  <img width="300" height="300" src="GGG4.jpg"/>
+  >> <img src="GGG1.jpg"/>  <img src="GGG2.jpg"/>
+  >> <img src="GGG3.jpg"/>  <img src="GGG4.jpg"/>
   # 2.image alignment results between different images
   >> <img width="900" height="450" src="tryout.jpg"/>  <img width="900" height="450" src="tryout1.jpg"/>
   >> <img width="900" height="450" src="tryout2.jpg"/>  <img width="900" height="450" src="tryout3.jpg"/>
