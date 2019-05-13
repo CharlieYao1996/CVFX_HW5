@@ -62,6 +62,7 @@
   Motion Stills app
   >
   這是利用手機app Motion still來做的live photo。
+  >
   <img src="export.gif"/>
    
    # 結論
