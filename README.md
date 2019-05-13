@@ -5,8 +5,8 @@
   >> <img width="200" height="200" src="G5.jpg"/>  <img width="200" height="200" src="G6.jpg"/>
   >> <img width="200" height="200" src="G7.jpg"/>  <img width="200" height="200" src="G8.jpg"/>
   
-  >> <img width="200" height="200" src="GG1.jpg"/>  <img width="200" height="200" src="GG2.jpg"/>
-  >> <img width="200" height="200" src="GG3.jpg"/>  <img width="200" height="200" src="GG4.jpg"/>
+  >> <img width="200" height="200" src="GGG1.jpg"/>  <img width="200" height="200" src="GGG2.jpg"/>
+  >> <img width="200" height="200" src="GGG3.jpg"/>  <img width="200" height="200" src="GGG4.jpg"/>
   # 2.image alignment results between different images
 
 
