@@ -21,6 +21,7 @@
 
 
   # 3.Generate the multi-view 3D visual effects
+  >> <img src="BAD3.gif"/>
   >> <img src="export.gif"/>
   
   
