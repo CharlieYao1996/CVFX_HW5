@@ -49,5 +49,5 @@
   >
    <img src="BAD3.gif"/>
   Motion Stills app
-  >
+  
    <img src="export.gif"/>
