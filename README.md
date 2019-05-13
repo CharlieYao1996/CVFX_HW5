@@ -1,10 +1,11 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
+  >> Stop Motion
   >> <img src="G1.jpg"/>  <img src="G2.jpg"/>
   >> <img src="G3.jpg"/>  <img src="G4.jpg"/>
   >> <img src="G5.jpg"/>  <img src="G6.jpg"/>
   >> <img src="G7.jpg"/>  <img src="G8.jpg"/>
-  
+  >> Motion parallax
   >> <img src="GGG1.jpg"/>  <img src="GGG2.jpg"/>
   >> <img src="GGG3.jpg"/>  <img src="GGG4.jpg"/>
   # 2.image alignment results between different images
