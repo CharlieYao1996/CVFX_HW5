@@ -2,10 +2,10 @@
   # 1.multi-view images by yourselves
   >> Stop Motion
   >
-  >> <img width="100" src="G1.jpg"/>  <img width="100" src="G2.jpg"/>
-  >> <img width="100" src="G3.jpg"/>  <img width="100" src="G4.jpg"/>
-  >> <img width="100" src="G5.jpg"/>  <img width="100" src="G6.jpg"/>
-  >> <img width="100" src="G7.jpg"/>  <img width="100" src="G8.jpg"/>
+  >> <img width="125" src="G1.jpg"/>  <img width="125" src="G2.jpg"/>
+  >> <img width="125" src="G3.jpg"/>  <img width="125" src="G4.jpg"/>
+  >> <img width="125" src="G5.jpg"/>  <img width="125" src="G6.jpg"/>
+  >> <img width="125" src="G7.jpg"/>  <img width="125" src="G8.jpg"/>
   >> Motion parallax
   >
   >> <img width="400" src="GGG1.jpg"/>  <img width="400" src="GGG2.jpg"/>
