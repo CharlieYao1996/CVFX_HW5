@@ -1,6 +1,6 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
-   Stop Motion
+   Stop Motion　
   >
   <img width="190" src="G1.jpg"/>  <img width="190" src="G2.jpg"/>
   <img width="190" src="G3.jpg"/>  <img width="190" src="G4.jpg"/>
@@ -11,6 +11,9 @@
   >
    <img width="190" src="GGG1.jpg"/>  <img width="190" src="GGG2.jpg"/>
    <img width="190" src="GGG3.jpg"/>  <img width="190" src="GGG4.jpg"/>
+  >
+  我們拍攝了兩組照片集來呈現兩種不同效果，肌肉雞(Stop motion)還有生茶(Motion Parallax)
+   
   # 2.image alignment results between different images
    Stop Motion
   >
@@ -25,7 +28,8 @@
    <img src="tryGGG2.jpg"/>
    <img src="tryGGG3.jpg"/>
 
-
+  >
+ 我們這次使用了ORB來對這兩組照片進行alignment，可以看出第一組的肌肉雞的身上都可以準確的對到，而第二組則是都集中對應在生茶的部分，我們認為可能是跟照片的焦距有關係，對焦的部分對於alignment來說是較容易進行的，在失焦的部分則沒辦法辨識出相近的東西。
 
 
   # 3.Generate the multi-view 3D visual effects
