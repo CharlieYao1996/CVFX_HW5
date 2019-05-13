@@ -56,7 +56,7 @@
    <img src="BAD3.gif"/>
   這是我們利用第一組肌肉雞來做Stop Motion的效果，這裡也是經過壓縮的版本，高畫質版本在[這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)，不過也許在畫面帶到最左邊的時候手沒有拿穩，整個畫面有些許跑掉，在alignment時會對畫面有些許的不平衡。
   
-  這是我們利用第一組肌肉雞來做Stop Motion的效果，這裡也是經過壓縮的版本，高畫質版本在[這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)
+  這是我們利用第一組肌肉雞來做Stop Motion的效果，這裡也是經過壓縮的版本，高畫質版本在[這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)，不過也許在畫面帶到最左邊的時候手沒有拿穩
   Motion Stills app
   
    <img src="export.gif"/>
