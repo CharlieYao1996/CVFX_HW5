@@ -1,7 +1,7 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
   >> Stop Motion
-  >> <img width="250" src="G1.jpg"/>  <img src="G2.jpg"/>
+  >> <img width="500" src="G1.jpg"/>  <img width="500" src="G2.jpg"/>
   >> <img src="G3.jpg"/>  <img src="G4.jpg"/>
   >> <img src="G5.jpg"/>  <img src="G6.jpg"/>
   >> <img src="G7.jpg"/>  <img src="G8.jpg"/>
