@@ -54,7 +54,12 @@
    Stop Motion
   >
    <img src="BAD3.gif"/>
-   [這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)
+   這是我們利用第一組肌肉雞來做Stop Motion的效果，這裡也是經過壓縮的版本，高畫質版本在[這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)，不過也許在畫面帶到最左邊的時候手沒有拿穩，整個畫面有些許跑掉，在alignment時會對畫面有些許的不平衡。
   Motion Stills app
   
    <img src="export.gif"/>
+   
+   # 結論
+   
+   我們認為最重要的是最開始照片的取景、畫面的穩定，都對於後面的處理都有很大的影響，而在畫面的背景太複雜的情況下，結果也會不太好。
+   而使用PS或是AE來對照片進行修補更能夠將結果變得更好，直接操作還是更能夠展現出我們想要表達的畫面。
