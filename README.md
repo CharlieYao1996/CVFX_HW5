@@ -3,8 +3,10 @@
   >> <img width="200" height="200" src="G1.jpg"/>  <img width="200" height="200" src="G2.jpg"/>
   >> <img width="200" height="200" src="G3.jpg"/>  <img width="200" height="200" src="G4.jpg"/>
   >> <img width="200" height="200" src="G5.jpg"/>  <img width="200" height="200" src="G6.jpg"/>
-   <img width="200" height="200" src="G7.jpg"/>  <img width="200" height="200" src="G8.jpg"/>
+  >> <img width="200" height="200" src="G7.jpg"/>  <img width="200" height="200" src="G8.jpg"/>
   
+  >> <img width="200" height="200" src="GG1.jpg"/>  <img width="200" height="200" src="GG2.jpg"/>
+  >> <img width="200" height="200" src="GG3.jpg"/>  <img width="200" height="200" src="GG4.jpg"/>
   # 2.image alignment results between different images
 
 
