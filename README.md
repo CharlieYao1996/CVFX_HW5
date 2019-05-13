@@ -45,7 +45,7 @@
   我們發現第二組的情況下主體生茶可能會過暗，因此我們利用PS將主體調亮，呈現更好的畫面。
    <img width="380" src="GGG1.jpg"/>  <img width="380" src="GGG1_V2.jpg"/>
   >
-   <img src="GGG2.gif"/> <img src="GGG1.gif"/>
+   <img src="GGG2.gif"/>
 
 
 
@@ -58,7 +58,8 @@
   這是我們利用第一組肌肉雞來做Stop Motion的效果，這裡也是經過壓縮的版本，高畫質版本在[這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)，不過也許在畫面帶到最左邊的時候手沒有拿穩，整個畫面有些許跑掉，在alignment時會對畫面有些許的不平衡。
   >
   Motion Stills app
-  
+  >
+  這是利用手機app Motion still來做的live photo。
    <img src="export.gif"/>
    
    # 結論
