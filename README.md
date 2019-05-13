@@ -2,11 +2,12 @@
   # 1.multi-view images by yourselves
   >> Stop Motion
   >
-  >> <img width="400" src="G1.jpg"/>  <img width="400" src="G2.jpg"/>
-  >> <img width="400" src="G3.jpg"/>  <img width="400" src="G4.jpg"/>
-  >> <img width="400" src="G5.jpg"/>  <img width="400" src="G6.jpg"/>
-  >> <img width="400" src="G7.jpg"/>  <img width="400" src="G8.jpg"/>
+  >> <img width="100" src="G1.jpg"/>  <img width="100" src="G2.jpg"/>
+  >> <img width="100" src="G3.jpg"/>  <img width="100" src="G4.jpg"/>
+  >> <img width="100" src="G5.jpg"/>  <img width="100" src="G6.jpg"/>
+  >> <img width="100" src="G7.jpg"/>  <img width="100" src="G8.jpg"/>
   >> Motion parallax
+  >
   >> <img width="400" src="GGG1.jpg"/>  <img width="400" src="GGG2.jpg"/>
   >> <img width="400" src="GGG3.jpg"/>  <img width="400" src="GGG4.jpg"/>
   # 2.image alignment results between different images
@@ -26,8 +27,9 @@
   >> Stop Motion
   >> <img src="BAD3.gif"/>
   >> Motion parallax
-  >> <img src="GGG1.gif"/>                                 
+  >> <img src="GGG1.gif"/>
   >>Motion Stills app
+  >
   >> <img src="export.gif"/>
   
   
