@@ -8,7 +8,7 @@
   >> <img width="300" height="300" src="GGG1.jpg"/>  <img width="300" height="300" src="GGG2.jpg"/>
   >> <img width="300" height="300" src="GGG3.jpg"/>  <img width="300" height="300" src="GGG4.jpg"/>
   # 2.image alignment results between different images
-  >> <img width="600" height="300" src="tryout.jpg"/>  <img width="600" height="300" src="tryout1.jpg"/>
+  >> <img width="900" height="450" src="tryout.jpg"/>  <img width="600" height="300" src="tryout1.jpg"/>
   >> <img width="600" height="300" src="tryout2.jpg"/>  <img width="600" height="300" src="tryout3.jpg"/>
 
 
