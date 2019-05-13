@@ -1,13 +1,13 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
-  >> Stop Motion
+   Stop Motion
   >
-  >> <img width="190" src="G1.jpg"/>  <img width="190" src="G2.jpg"/>
-  >> <img width="190" src="G3.jpg"/>  <img width="190" src="G4.jpg"/>
-  >> <img width="190" src="G5.jpg"/>  <img width="190" src="G6.jpg"/>
-  >> <img width="190" src="G7.jpg"/>  <img width="190" src="G8.jpg"/>
+  <img width="190" src="G1.jpg"/>  <img width="190" src="G2.jpg"/>
+  <img width="190" src="G3.jpg"/>  <img width="190" src="G4.jpg"/>
+  <img width="190" src="G5.jpg"/>  <img width="190" src="G6.jpg"/>
+  <img width="190" src="G7.jpg"/>  <img width="190" src="G8.jpg"/>
   >
-  >> Motion parallax
+   Motion parallax
   >
   >> <img width="190" src="GGG1.jpg"/>  <img width="190" src="GGG2.jpg"/>
   >> <img width="190" src="GGG3.jpg"/>  <img width="190" src="GGG4.jpg"/>
