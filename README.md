@@ -41,6 +41,8 @@
   
   
   # 4.Exploit creativity to add some image processing to enhance effect 
+  
+  我們發現第二組的情況下主體生茶可能會過暗，因此我們利用PS將主體調亮，呈現更好的畫面。
    <img width="380" src="GGG1.jpg"/>  <img width="380" src="GGG1_V2.jpg"/>
   >
    <img src="GGG2.gif"/> <img src="GGG1.gif"/>
@@ -52,6 +54,7 @@
    Stop Motion
   >
    <img src="BAD3.gif"/>
+   [這裡](https://drive.google.com/open?id=1p8CqCXyrU0zE6uIrFNODCBYgkNbNQFQB)
   Motion Stills app
   
    <img src="export.gif"/>
