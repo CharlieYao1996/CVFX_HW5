@@ -1,6 +1,6 @@
 # CVFX_HW5
   # 1.multi-view images by yourselves
-  >> <img width="300" height="300" src="G1.jpg"/>  <img width="300" height="300" src="G2.jpg"/>
+  >> <img src="G1.jpg"/>  <img width="300" height="300" src="G2.jpg"/>
   >> <img width="300" height="300" src="G3.jpg"/>  <img width="300" height="300" src="G4.jpg"/>
   >> <img width="300" height="300" src="G5.jpg"/>  <img width="300" height="300" src="G6.jpg"/>
   >> <img width="300" height="300" src="G7.jpg"/>  <img width="300" height="300" src="G8.jpg"/>
