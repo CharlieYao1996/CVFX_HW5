@@ -25,7 +25,7 @@
   >> Stop Motion
   >> <img src="BAD3.gif"/>
   >> Motion parallax
-
+  >> <img src="GGG1.gif"/>
   >>Motion Stills app
   >> <img src="export.gif"/>
   
