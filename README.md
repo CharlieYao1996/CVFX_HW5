@@ -22,7 +22,11 @@
 
 
   # 3.Generate the multi-view 3D visual effects
+  >> Stop Motion
   >> <img src="BAD3.gif"/>
+  >> Motion parallax
+
+  >>Motion Stills app
   >> <img src="export.gif"/>
   
   
