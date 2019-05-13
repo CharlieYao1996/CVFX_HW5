@@ -8,10 +8,14 @@
   >> <img width="300" height="300" src="GGG1.jpg"/>  <img width="300" height="300" src="GGG2.jpg"/>
   >> <img width="300" height="300" src="GGG3.jpg"/>  <img width="300" height="300" src="GGG4.jpg"/>
   # 2.image alignment results between different images
-  >> <img width="900" height="450" src="tryout.jpg"/>  <img width="600" height="300" src="tryout1.jpg"/>
-  >> <img width="600" height="300" src="tryout2.jpg"/>  <img width="600" height="300" src="tryout3.jpg"/>
+  >> <img width="900" height="450" src="tryout.jpg"/>  <img width="900" height="450" src="tryout1.jpg"/>
+  >> <img width="900" height="450" src="tryout2.jpg"/>  <img width="900" height="450" src="tryout3.jpg"/>
+  >> <img width="900" height="450" src="tryout4.jpg"/>  <img width="900" height="450" src="tryout5.jpg"/>
+  >> <img width="900" height="450" src="tryout6.jpg"/>
 
-
+  >> <img width="900" height="450" src="tryGGG1.jpg"/>
+  >> <img width="900" height="450" src="tryGGG2.jpg"/>
+  >> <img width="900" height="450" src="tryGGG3.jpg"/>
 
 
 
